@@ -12,7 +12,7 @@ Let's start with the first skin tried to make as normal as possible from time to
 The main anime girl is [Kyoko Kirigiri](https://danganronpa.fandom.com/wiki/Kyoko_Kirigiri)
  The bulk of the pictures will be tied to her version from 1 danganronpa
                                                       
-                                                     ↓ ↓ ↓ Фоточки | Pictures ↓ ↓ ↓
+                                              ↓ ↓ ↓ Фоточки | Pictures ↓ ↓ ↓
 ## Menu
 ![menu](https://cdn.discordapp.com/attachments/961591108847149069/1314363965391900762/HhFWrGI.png?ex=67538055&is=67522ed5&hm=d630600d2db0acf61c715afc180be5a06ef8f7524aa4ea023c0a88f386c427de&)
 -
